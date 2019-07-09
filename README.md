@@ -1,4 +1,13 @@
 # rh_logger
+This is a repo forked from [Rhoana](https://github.com/Rhoana/rh_logger)
+
+## Installation
+```
+$ git clone git@github.com:HoraceKem/rh_logger.git
+$ cd rh_logger/
+$ pip install -r requirements.txt
+$ pip install --editable .
+```
 ## A package for logging / process status / metrics reporting for rhoana
 
 How to use:
